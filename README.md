@@ -2,20 +2,20 @@
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
-  <a href__="mailto:[abimaelmangualdelcid@gmail.com]">📧 Email</a> •
-  <a href__="https://www.linkedin.com/in/abimael-mangual-28650734b/">💼 LinkedIn</a> •
-  <a href__="[link to your Finance Vault app]">🗂️ Project Vault</a>
+  <a href__="mailto:[abimaelmangualdelcid@gmail.com]"> Email</a> •
+  <a href__="https://www.linkedin.com/in/abimael-mangual-28650734b/"> LinkedIn</a> •
+  <a href__="[link to your Finance Vault app]"> Project Vault</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a Finance student at Texas State University with a focus on [corporate finance / data analytics / financial modeling]. My background is in  valuation, financial modeling, and analytical skills needed for a career in [data analytics / financial management / corporate finance].
+I'm a Finance student at Texas State University with a focus on data analytics and corporate finance. My background is in  valuation, financial modeling, and analytical skills needed for a career in data analytics, financial management and credit or budget analyst.
 
 - 🎓 **Degree:** B.B.A. in Finance — Texas State University (Expected Graduation: [May 2026])
 - 📍 **Location:** [San Marcos, TX]
-- 🔍 **Seeking:** [Internship / Full-Time] roles in [Data Analyst / Finance / Corporate Financial Analyst / Budget or Credit Analyst / FP&A]
+- 🔍 **Seeking:** [Full-Time] roles in [Data Analyst / Finance / Corporate Financial Analyst / Budget or Credit Analyst / FP&A]
 
 ---
 
