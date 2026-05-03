@@ -32,23 +32,23 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 
 ## Finance Projects
 
-> All deliverables and supporting files are organized in my **Finance Vault →**([your app link here])
+> All deliverables and supporting files are organized in my **Projects Vault →**([your app link here])
 
 ---
 
-### [Project Title — e.g. DCF Valuation of Tesla]
-**Course:** Corporate Finance &nbsp;|&nbsp; **Semester:** Fall 2024 &nbsp;|&nbsp; **Grade:** A
+### DCF and Comps Valuation: Vertiv Holdings Co.
+**Course:** Corporate Finance &nbsp;|&nbsp; **Semester:** Spring 2026 &nbsp;|&nbsp; **Grade:** B
 
 > Brief 1–2 sentence description of what you did and what the key takeaway was.
 
-`DCF` `Equity Research` `Financial Modeling`
+`DCF` `Equity Research` `Financial Modeling` `Microsoft Excel` `Microsoft Powerpoint
 
 📎 [View File]([link]) 
 
 ---
 
-### 📊 [Project Title — e.g. M&A Analysis: Microsoft / Activision]
-**Course:** Mergers & Acquisitions &nbsp;|&nbsp; **Semester:** Spring 2024 &nbsp;|&nbsp; **Grade:** A
+### 
+**Course:** Mergers & Acquisitions &nbsp;|&nbsp; **Semester:** Spring 2026 &nbsp;|&nbsp; **Grade:** A
 
 > Brief 1–2 sentence description of what you did and what the key takeaway was.
 
@@ -69,13 +69,10 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out — I'm always open to connecting with professionals in finance.
 
-- 📧 [abimaelmangualdelcid@gmail.com]
-- 💼 [https://www.linkedin.com/in/abimael-mangual-28650734b/]
+-  [abimaelmangualdelcid@gmail.com]
+-  [https://www.linkedin.com/in/abimael-mangual-28650734b/]
 
----
-
-<p align="center"><i>"The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett</i></p>
