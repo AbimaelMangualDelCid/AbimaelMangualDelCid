@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Abimael Mangual 👋</h1>
+<h1 align="center">Hello, I'm Abimael Mangual 👋</h1>
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
-  <a href__="mailto:[your.email@txstate.edu]">📧 Email</a> •
-  <a href__="https://www.linkedin.com/in/[your-linkedin]">💼 LinkedIn</a> •
+  <a href__="mailto:[a_m2108@txstate.edu]">📧 Email</a> •
+  <a href__="https://www.linkedin.com/in/abimael-mangual-28650734b/">💼 LinkedIn</a> •
   <a href__="[link to your Finance Vault app]">🗂️ Project Vault</a>
 </p>
 
