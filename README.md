@@ -2,9 +2,9 @@
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
-  <a href__=[mailto:abimaelmangualdelcid@gmail.com] > Email</a> •
-  <a href__=[https://www.linkedin.com/in/abimael-mangual-28650734b/] > LinkedIn</a> •
-  <a href__="link to your Finance Vault app"> Project Vault</a>
+  <a href="mailto:abimaelmangualdelcid@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/abimael-mangual-28650734b/">LinkedIn</a> •
+  <a href="https://your-finance-vault-url-here.com">Project Vault</a>
 </p>
 
 ---
