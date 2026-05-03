@@ -73,6 +73,6 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 
 Feel free to reach out — I'm always open to connecting with professionals in finance.
 
--  [abimaelmangualdelcid@gmail.com]
--  [https://www.linkedin.com/in/abimael-mangual-28650734b/]
+- abimaelmangualdelcid@gmail.com
+- https://www.linkedin.com/in/abimael-mangual-28650734b/
 
