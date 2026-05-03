@@ -2,8 +2,8 @@
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
-  <a href__="mailto:abimaelmangualdelcid@gmail.com"> Email</a> •
-  <a href__="https://www.linkedin.com/in/abimael-mangual-28650734b/"> LinkedIn</a> •
+  <a href__=[mailto:abimaelmangualdelcid@gmail.com] > Email</a> •
+  <a href__=[https://www.linkedin.com/in/abimael-mangual-28650734b/] > LinkedIn</a> •
   <a href__="link to your Finance Vault app"> Project Vault</a>
 </p>
 
@@ -26,13 +26,13 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 | **Financial Modeling** | DCF, LBO, M&A Comps, Three-Statement Models |
 | **Software** | Excel (Advanced), Bloomberg Terminal, Capital IQ |
 | **Programming** | STATA, Tableau, Python (Pandas, NumPy), SQL |
-| **Certifications** | [Bloomberg Market Concepts, FMI Foundations in Financial Modeling] |
+| **Certifications** | Bloomberg Market Concepts, FMI Foundations in Financial Modeling |
 
 ---
 
 ## 📁 Finance Projects
 
-> All deliverables and supporting files are organized in my [**Finance Vault →**]([your app link here])
+> All deliverables and supporting files are organized in my **Finance Vault →**([your app link here])
 
 ---
 
