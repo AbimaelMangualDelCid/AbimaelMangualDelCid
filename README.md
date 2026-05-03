@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abimael Mangual 👋</h1>
+<h3 align="center">Finance Student @ Texas State University</h3>
 
-<!--
-**AbimaelMangualDelCid/AbimaelMangualDelCid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href__="mailto:[your.email@txstate.edu]">📧 Email</a> •
+  <a href__="https://www.linkedin.com/in/[your-linkedin]">💼 LinkedIn</a> •
+  <a href__="[link to your Finance Vault app]">🗂️ Project Vault</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Finance student at Texas State University with a focus on [corporate finance / investments / financial modeling — pick one]. I'm passionate about valuation, data-driven analysis, and building the analytical skills needed for a career in [investment banking / asset management / corporate finance].
+
+- 🎓 **Degree:** B.B.A. in Finance — Texas State University (Expected Graduation: [Month Year])
+- 📍 **Location:** [City, TX]
+- 🔍 **Seeking:** [Internship / Full-Time] roles in [Investment Banking / Finance / Corporate Strategy]
+
+---
+
+## 🛠️ Skills
+
+| Category | Tools & Skills |
+|---|---|
+| **Financial Modeling** | DCF, LBO, M&A Comps, Three-Statement Models |
+| **Software** | Excel (Advanced), Bloomberg Terminal, Capital IQ |
+| **Programming** | Python (Pandas, NumPy), SQL |
+| **Certifications** | [e.g. Bloomberg Market Concepts, CFA Level I Candidate] |
+
+---
+
+## 📁 Finance Projects
+
+> All deliverables and supporting files are organized in my [**Finance Vault →**]([your app link here])
+
+---
+
+### 📊 [Project Title — e.g. DCF Valuation of Tesla]
+**Course:** Corporate Finance &nbsp;|&nbsp; **Semester:** Fall 2024 &nbsp;|&nbsp; **Grade:** A
+
+> Brief 1–2 sentence description of what you did and what the key takeaway was.
+
+`DCF` `Equity Research` `Financial Modeling`
+
+📎 [View File]([link]) 
+
+---
+
+### 📊 [Project Title — e.g. M&A Analysis: Microsoft / Activision]
+**Course:** Mergers & Acquisitions &nbsp;|&nbsp; **Semester:** Spring 2024 &nbsp;|&nbsp; **Grade:** A
+
+> Brief 1–2 sentence description of what you did and what the key takeaway was.
+
+`M&A` `Accretion/Dilution` `Synergies`
+
+📎 [View File]([link])
+
+---
+
+### 📊 [Project Title]
+**Course:** [Course Name] &nbsp;|&nbsp; **Semester:** [Semester Year] &nbsp;|&nbsp; **Grade:** [Grade]
+
+> Brief description.
+
+`[Tag]` `[Tag]`
+
+📎 [View File]([link])
+
+---
+
+## 📬 Contact
+
+Feel free to reach out — I'm always open to connecting with professionals in finance.
+
+- 📧 [your.email@txstate.edu]
+- 💼 [linkedin.com/in/your-linkedin]
+
+---
+
+<p align="center"><i>"The stock market is a device for transferring money from the impatient to the patient." — Warren Buffett</i></p>
