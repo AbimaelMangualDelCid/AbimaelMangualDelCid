@@ -6,11 +6,3 @@
   <a href="https://www.linkedin.com/in/abimael-mangual-28650734b/">LinkedIn</a> •
   <a href="https://your-finance-vault-url-here.com">Project Vault</a>
 </p>
-
-## Contact
-
-Feel free to reach out — I'm always open to connecting with professionals in finance.
-
-- abimaelmangualdelcid@gmail.com
-- https://www.linkedin.com/in/abimael-mangual-28650734b/
-
