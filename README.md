@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Abimael Mangual 👋</h1>
+<h1 align="center">Hello, I'm Abimael Mangual
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 I'm a Finance student at Texas State University with a focus on data analytics and corporate finance. My background is in  valuation, financial modeling, and analytical skills needed for a career in data analytics, financial management and credit or budget analyst.
 
-- 🎓 **Degree:** B.B.A. in Finance — Texas State University (Expected Graduation: May 2026)
-- 📍 **Location:** San Marcos, TX
-- 🔍 **Seeking:** Full-Time roles in Data Analyst / Finance / Corporate Financial Analyst / Budget or Credit Analyst / FP&A
+-  **Degree:** B.B.A. in Finance — Texas State University (Expected Graduation: May 2026)
+-  **Location:** San Marcos, TX
+-  **Seeking:** Full-Time roles in Data Analyst / Finance / Corporate Financial Analyst / Budget or Credit Analyst / FP&A
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 | Category | Tools & Skills |
 |---|---|
@@ -30,13 +30,13 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 
 ---
 
-## 📁 Finance Projects
+## Finance Projects
 
 > All deliverables and supporting files are organized in my **Finance Vault →**([your app link here])
 
 ---
 
-### 📊 [Project Title — e.g. DCF Valuation of Tesla]
+### [Project Title — e.g. DCF Valuation of Tesla]
 **Course:** Corporate Finance &nbsp;|&nbsp; **Semester:** Fall 2024 &nbsp;|&nbsp; **Grade:** A
 
 > Brief 1–2 sentence description of what you did and what the key takeaway was.
