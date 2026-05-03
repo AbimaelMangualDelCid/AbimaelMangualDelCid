@@ -30,9 +30,7 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 
 ---
 
-## Finance Projects
-
-> All deliverables and supporting files are organized in my **Projects Vault →**([your app link here])
+## My Projects
 
 ---
 
@@ -47,23 +45,12 @@ I'm a Finance student at Texas State University with a focus on data analytics a
 
 ---
 
-### 
+### Empirical Data Analytics Project:
 **Course:** Mergers & Acquisitions &nbsp;|&nbsp; **Semester:** Spring 2026 &nbsp;|&nbsp; **Grade:** A
 
 > Brief 1–2 sentence description of what you did and what the key takeaway was.
 
 `M&A` `Accretion/Dilution` `Synergies`
-
-📎 [View File]([link])
-
----
-
-### 📊 [Project Title]
-**Course:** [Course Name] &nbsp;|&nbsp; **Semester:** [Semester Year] &nbsp;|&nbsp; **Grade:** [Grade]
-
-> Brief description.
-
-`[Tag]` `[Tag]`
 
 📎 [View File]([link])
 
