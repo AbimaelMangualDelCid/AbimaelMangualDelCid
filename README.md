@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Abimael Mangual
+<h1 align="center">Hello! Welcome to Abimael Mangual Del Cid's Landing Page
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
