@@ -2,7 +2,7 @@
 <h3 align="center">Finance Student @ Texas State University</h3>
 
 <p align="center">
-  <a href__="mailto:[a_m2108@txstate.edu]">📧 Email</a> •
+  <a href__="mailto:[abimaelmangualdelcid@gmail.com]">📧 Email</a> •
   <a href__="https://www.linkedin.com/in/abimael-mangual-28650734b/">💼 LinkedIn</a> •
   <a href__="[link to your Finance Vault app]">🗂️ Project Vault</a>
 </p>
@@ -11,11 +11,11 @@
 
 ## About Me
 
-I'm a Finance student at Texas State University with a focus on [corporate finance / investments / financial modeling — pick one]. I'm passionate about valuation, data-driven analysis, and building the analytical skills needed for a career in [investment banking / asset management / corporate finance].
+I'm a Finance student at Texas State University with a focus on [corporate finance / data analytics / financial modeling]. My background is in  valuation, financial modeling, and analytical skills needed for a career in [data analytics / financial management / corporate finance].
 
-- 🎓 **Degree:** B.B.A. in Finance — Texas State University (Expected Graduation: [Month Year])
-- 📍 **Location:** [City, TX]
-- 🔍 **Seeking:** [Internship / Full-Time] roles in [Investment Banking / Finance / Corporate Strategy]
+- 🎓 **Degree:** B.B.A. in Finance — Texas State University (Expected Graduation: [May 2026])
+- 📍 **Location:** [San Marcos, TX]
+- 🔍 **Seeking:** [Internship / Full-Time] roles in [Data Analyst / Finance / Corporate Financial Analyst / Budget or Credit Analyst / FP&A]
 
 ---
 
@@ -25,8 +25,8 @@ I'm a Finance student at Texas State University with a focus on [corporate finan
 |---|---|
 | **Financial Modeling** | DCF, LBO, M&A Comps, Three-Statement Models |
 | **Software** | Excel (Advanced), Bloomberg Terminal, Capital IQ |
-| **Programming** | Python (Pandas, NumPy), SQL |
-| **Certifications** | [e.g. Bloomberg Market Concepts, CFA Level I Candidate] |
+| **Programming** | STATA, Tableau, Python (Pandas, NumPy), SQL |
+| **Certifications** | [Bloomberg Market Concepts, FMI Foundations in Financial Modeling] |
 
 ---
 
@@ -73,8 +73,8 @@ I'm a Finance student at Texas State University with a focus on [corporate finan
 
 Feel free to reach out — I'm always open to connecting with professionals in finance.
 
-- 📧 [your.email@txstate.edu]
-- 💼 [linkedin.com/in/your-linkedin]
+- 📧 [abimaelmangualdelcid@gmail.com]
+- 💼 [https://www.linkedin.com/in/abimael-mangual-28650734b/]
 
 ---
 
